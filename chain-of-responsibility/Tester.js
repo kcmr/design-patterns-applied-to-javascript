@@ -1,6 +1,6 @@
 import { Handler } from './Handler';
 
-export class TestRunner extends Handler {
+export class Tester extends Handler {
   constructor(next) {
     super(next);
   }
