@@ -1,0 +1,6 @@
+{
+  "name": "chain-of-responsibility",
+  "scripts": {
+    "start": "npx parcel index.html"
+  }
+}
