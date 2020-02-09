@@ -1,0 +1,11 @@
+{
+  "name": "command-pattern",
+  "main": "index.js",
+  "module": "main.js",
+  "scripts": {
+    "start": "node -r esm index"
+  },
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
