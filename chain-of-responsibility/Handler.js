@@ -3,6 +3,7 @@ export class Handler {
     this.next = next;
   }
 
+  // Example of a template method
   handle(component) {
     if (this.doHandle(component)) {
       return;
